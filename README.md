@@ -13,3 +13,6 @@ The simulation will involve the modeling of the TRIGA reactor core, including it
 The results of the simulation will provide valuable insights into the behavior of the TRIGA reactor under different conditions. This information can be used to optimize the design and operation of the reactor, as well as to improve our understanding of nuclear reactors in general.
 
 Overall, this project will provide an excellent opportunity to gain experience in nuclear reactor physics, Monte Carlo simulations, and the use of OpenMC.
+
+
+https://www-pub.iaea.org/MTCD/Publications/PDF/SupplementaryMaterials/D482/Africa.pdf
